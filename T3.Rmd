@@ -1,7 +1,7 @@
 ---
 title: "Microeconomics 1021A"
 author: 'TA: Hans Martinez | Section: 037 (14:30) | 039 (15:30)'
-date: '`r format(Sys.time(),"%M %d, %Y")`'
+date: '`r format(Sys.time(),"%B %d, %Y")`'
 output:
   beamer_presentation: default
   xaringan::moon_reader:
