@@ -3,9 +3,9 @@ title: "Microeconomics 1021A"
 author: 'TA: Hans Martinez | Section: 037 (14:30) | 039 (15:30)'
 date: "18/09/2020"
 output:
+  ioslides_presentation: default
   xaringan::moon_reader:
     css: [robot]
-  ioslides_presentation: default
   slidy_presentation: default
   beamer_presentation: default
 subtitle: 'Chapter 2: The Economic Problem'
