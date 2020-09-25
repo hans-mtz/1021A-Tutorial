@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Suppose that Yucatan’s production possibilities are:
 
-![](2-11.png){width=100%}
+![](graphs/2-11.png){width=100%}
 
 ## Problem 2.11
 
@@ -47,7 +47,7 @@ Suppose that Yucatan’s production possibilities are:
 
 ## Problem 2.11
 
-![](ppf.png){width=80%}
+![](graphs/ppf.png){width=80%}
 
 
 ## Problem 2.11 SOLUTIONS
@@ -71,7 +71,7 @@ In Problem 2.11, what is the marginal cost of 1 kilogram of food in Yucatan when
 
 The table describes the preferences in Yucatan.
 
-![](prefs.png){width=100%}
+![](graphs/prefs.png){width=100%}
 
 ## Problem 2.14
 
@@ -97,7 +97,7 @@ Tony and Patty produce skis and snowboards. The tables show their production pos
 
 ## Problem 2.20
 
-![](tp.png){width=70%}
+![](graphs/tp.png){width=70%}
 
 ## Problem 2.20
 
@@ -121,11 +121,11 @@ $\implies$ Patty has the comparative advantage of producing snowboards.
 
 Currently,
 
-![](notrade.png){width=50%}
+![](graphs/notrade.png){width=50%}
 
 If Tony and Patty specialize and trade,
 
-![](trade.png){width=50%}
+![](graphs/trade.png){width=50%}
 
 ## Recap
 
