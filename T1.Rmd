@@ -1,0 +1,83 @@
+---
+title: "Microeconomics 1021A"
+author: 'TA: Hans Martinez'
+date: "11/09/2020"
+output:
+  ioslides_presentation: default
+  slidy_presentation: default
+subtitle: 'Section: 037 (14:30) | 039 (15:30)'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Content
+
+- Intro
+- OWL & Mylab
+- Graphs
+
+## Intro
+
+- TA name: Hans Martinez. 
+- You can call me Hans
+- Textbook is required (Can be second hand) 
+- Mylab is required (Can be bought separately from the book)
+- Health measures: Wear masks & social distance
+
+## OWL & Mylab
+
+- OWL: Syllabus, lectures, forums, Mylab help
+  - https://owl.uwo.ca/portal
+- Mylab: Practice questions and quizzes
+  - Course ID: streufert46445
+  - https://www.pearsonmylabandmastering.com/northamerica/
+
+## Expectations
+
+- Questions about class, OWL and Mylab: OWL Forums & Professor
+- Questions about tutorial, tutorial questions: TA
+
+## Graphs
+
+Problems 15A, 15B, 16 and 17 (p. 32)
+
+![](15.png){width=100%}
+
+## Solution
+
+![](15s.png){width=80%}
+
+## Question 16
+
+Calculate the slope of the relationship between *x* and *y* when *x* equals 3.
+
+
+## Question 16
+
+Calculate the slope of the relationship between *x* and *y* when *x* equals 3.
+
+![](16g.png){width=65%}
+
+## Question 17
+
+Calculate the slope of the relationship across the arc as x increases from 4 to 5.
+
+## Question 17
+
+Calculate the slope of the relationship across the arc as x increases from 4 to 5.
+
+![](17g.png){width=65%}
+
+
+## Recap
+
+- Relaionship between two vars:
+
+  - Positive: Move in same direction (upward slope)
+  - Negative: Move in opposite directions (downward slope)
+  
+- Given two points ($x_1, y_1$) and ($x_2,y_2$), 
+
+  - the slope is $\frac{\Delta y}{\Delta x} = \frac{y_2-y_1}{x_2-x_1}$
